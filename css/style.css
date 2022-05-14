@@ -1,0 +1,65 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #43BFCD;
+}
+.container{
+    align-items: center;
+}
+.logo{
+    text-align: center;
+}
+.logo img{
+    width: 10vw;
+}
+.opening{
+    width: 80vw;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    font-size: x-large;
+}
+.opening-red{
+    width: 80vw;
+    color: red;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    font-size: x-large;
+}
+.tombol{
+    margin: auto;
+    text-align: center;
+}
+.caution{
+    width: 80vw;
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    margin: auto;
+    font-size: medium;
+}
+.nilai{
+    text-align: center;
+}
+.nilai-txt{
+    text-align: left;
+    color: white;
+    font-weight: 500;
+    font-size: large;
+}
+.input-group{
+    width: 40vw;
+    margin: auto;
+}
+.nilai-akhir{
+    width: 40vw;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin: auto;
+    font-size: 6rem;
+}
+.back{
+    margin: auto;
+}
