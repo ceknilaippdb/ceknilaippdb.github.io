@@ -12,7 +12,7 @@ body{
     width: 10vw;
 }
 .opening{
-    width: 80vw;
+    width: 70vw;
     color: white;
     font-weight: 700;
     text-align: center;
@@ -20,7 +20,7 @@ body{
     font-size: x-large;
 }
 .opening-red{
-    width: 80vw;
+    width: 70vw;
     color: red;
     font-weight: 700;
     text-align: center;
@@ -32,7 +32,7 @@ body{
     text-align: center;
 }
 .caution{
-    width: 80vw;
+    width: 70vw;
     color: white;
     font-weight: 300;
     text-align: center;
